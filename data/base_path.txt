@@ -1,2 +1,1 @@
-C:\Users\User\Work\project\ui
-this ^ is an example
+C:\Users\User\Work\365-financial-analyst\ui

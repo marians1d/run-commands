@@ -1,0 +1,2 @@
+\frontend|npm run dev:fa
+\site|npm run dev:fa

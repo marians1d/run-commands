@@ -24,7 +24,7 @@ def read_base_dir():
 
     try:
         with open('data/base_path.txt') as base_file:
-            base_dir = base_file.readline()
+            base_dir = base_file.readline().strip()
     except FileNotFoundError:
         base_dir = input('Enter base directory: ')
 
